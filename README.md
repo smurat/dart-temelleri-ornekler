@@ -1,2 +1,1 @@
-# for-do-while-donguleri-ornekler
-# for-do-while-donguleri-ornekler
+# dart-simple-exercises
